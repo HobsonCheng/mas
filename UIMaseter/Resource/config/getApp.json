@@ -1,0 +1,84 @@
+{
+  "data": {
+    "global": {
+      "fields": {
+        "networkTimeout": "网络请求延时，先不做",
+        "hudStyle": "提示框样式，先不做"
+      },
+      "styles": {
+        "bgColor": "255,255,255,0.1",
+        "bgImg": "https://xxxx.jpg",
+        "bgImgMode": "scaleToFit/aspectFill/scaleAspectFit",
+        "fontFamily": "MarkerFelt-Thin",
+          "fontSize": 16
+      }
+    },
+    "page": {
+      "fields": {
+          
+      },
+      "styles": {}
+    },
+    "module": {
+      "fields": {},
+      "styles": {}
+    },
+    "stateBar": {
+      "color": 1
+    },
+    "naviBar": {
+      "fields": {
+        "title": "导航"
+      },
+      "styles": {
+        "titleColor": "255,10,25,1",
+        "bgColor": "255,255,255,0.5",
+        "bgImg": "http://pic.90sjimg.com/back_pic/u/00/38/54/05/55fea518e2da4.jpg",
+        "bgImgMode": "scaleToFit/aspectFill/scaleAspectFit",
+        "itemColor": "15,158,30,1",
+        "itemSize": 18
+      },
+      "events": {},
+      "items": {}
+    },
+    "naviTab": {
+      "fields": {},
+      "styles": {},
+      "events": {},
+      "items": {}
+    },
+    "tabBar": {
+      "fields": {
+          
+      },
+      "styles": {
+          "color": "255,10,25,1",
+          "selColor": "255,255,255,0.5",
+          "bgImg": "http://pic.90sjimg.com/back_pic/u/00/38/54/05/55fea518e2da4.jpg",
+          "bgImgMode": "scaleToFit/aspectFill/scaleAspectFit",
+          "bgColor": "255,10,25,1",
+          "borderStyle": 0
+      },
+      "events": {},
+      "items":
+          [{
+          
+          },{
+          
+          }
+          ]
+    },
+    "buttons": {
+      "fields": {},
+      "styles": {},
+      "events": {},
+      "items": {}
+    },
+    "menus": {
+      "fields": {},
+      "styles": {},
+      "events": {},
+      "items": {}
+    }
+  }
+}

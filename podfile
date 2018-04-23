@@ -1,0 +1,70 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'UIMaseter' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+pod 'DZNEmptyDataSet'
+
+pod 'Then'
+
+pod 'HandyJSON', '~> 4.0.0-beta.1'
+pod 'SwiftyJSON'
+
+pod 'SDWebImage'
+
+pod 'Alamofire'
+pod 'Reachability'
+
+
+#ui
+pod 'TYPagerController'
+
+pod 'IQKeyboardManagerSwift'#键盘
+pod 'SnapKit'
+pod 'TextFieldEffects'
+pod 'KMPlaceholderTextView'
+#  pod 'ChameleonFramework'
+#  pod 'MagicalRecord'
+#  pod 'iRate'
+#  pod 'PermissionScope'#汉化
+#  pod 'Dodo'
+#  pod 'MLeaksFinder'              # 检测内存泄漏
+#  pod 'SVProgressHUD'
+#  pod 'PKRevealController'
+#  pod 'RETableViewManager'
+#  pod 'Font-Awesome-Swift'
+#  pod 'ESPullToRefresh'
+pod 'LPDQuoteImagesView'
+pod 'ReusableKit'
+pod 'SwiftForms'
+
+# Rx
+pod 'RxSwift'
+pod 'RxCocoa'
+pod 'NSObject+Rx'
+pod 'RxGesture'
+pod 'RxDataSources'
+
+
+#授权
+#pod 'Weibo_SDK', :git => 'https://github.com/sinaweibosdk/weibo_ios_sdk.git'
+# pod 'WechatOpenSDK'
+#  pod 'zhPopupController'
+
+#骑牛上传
+pod 'Qiniu'
+
+#protobuf
+pod 'SwiftProtobuf'
+#webscoket
+pod 'Starscream'
+
+#IM JPUSH
+pod 'JMessage'
+pod 'YHPopupView'
+pod 'YHPhotoKit'
+pod 'MBProgressHUD'
+pod 'MJRefresh'
+end
